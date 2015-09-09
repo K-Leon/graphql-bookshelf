@@ -30,11 +30,11 @@
     "babel": "^5.8.21",
     "babel-jest": "^5.3.0",
     "babel-runtime": "^5.8.20",
-    "bookshelf": "^0.8.1",
+    "bookshelf": "latest",
     "co": "^4.6.0",
-    "graphql": "^0.3.0",
+    "graphql": "latest",
     "jest-cli": "facebook/jest",
-    "knex": "^0.8.6",
+    "knex": "latest",
     "sqlite3": "^3.0.10"
   },
   "jest": {
